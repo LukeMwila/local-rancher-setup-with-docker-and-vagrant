@@ -3,8 +3,8 @@ This repository contains the source code to startup Rancher in a Docker containe
 The VM runs Ubuntu 20.04 and the provisioning script installs the latest version of Docker at this point in time (20.10.7).
 
 ## Prerequisites
-* Vagrant
-* Virtual Box
+* [Vagrant](https://www.vagrantup.com/docs/installation)
+* [Virtual Box](https://www.virtualbox.org/wiki/Downloads)
 
 ## Get Started
 To start up Rancher in a VM, run the following command:
